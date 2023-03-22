@@ -1,0 +1,7 @@
+.eslintrc.json
+package.json
+jsconfig.json
+**/node_modules
+**/.git
+**/.svn
+**/.hg
